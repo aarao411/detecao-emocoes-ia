@@ -1,0 +1,45 @@
+# Detecção de Emoções em Tempo Real com IA 😄😢😡
+
+![Demo em ação](demo.gif)
+
+Primeiro projeto público do meu portfólio profissional – Curso Superior de Tecnologia em Inteligência Artificial.
+
+## 🚀 Sobre o projeto
+Sistema que detecta 7 emoções faciais em tempo real usando a webcam:
+- Feliz · Triste · Raiva · Surpresa · Nojo · Medo · Neutro
+
+## 🛠 Tecnologias
+- Python  
+- OpenCV  
+- MediaPipe (Google)  
+- TensorFlow / Keras  
+- Modelo pré-treinado FER-2013 (accuracy > 95%)
+
+## ▶️ Como rodar
+```bash
+pip install -r requirements.txt
+python app.py
+
+# Detecção de Emoções em Tempo Real com IA 😄😢😡
+
+![Demo em ação](demo.gif)
+
+Primeiro projeto público do meu portfólio profissional – Curso Superior de Tecnologia em Inteligência Artificial.
+
+## 🚀 Sobre o projeto
+Sistema que detecta 7 emoções faciais em tempo real usando a webcam:
+- Feliz · Triste · Raiva · Surpresa · Nojo · Medo · Neutro
+
+## 🛠 Tecnologias
+- Python  
+- OpenCV  
+- MediaPipe (Google)  
+- TensorFlow / Keras  
+- Modelo pré-treinado FER-2013 (accuracy > 95%)
+
+## ▶️ Como rodar
+```bash
+pip install -r requirements.txt
+python app.py
+
+
