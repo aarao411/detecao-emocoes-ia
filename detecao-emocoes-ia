@@ -20,26 +20,33 @@ Sistema que detecta 7 emoções faciais em tempo real usando a webcam:
 pip install -r requirements.txt
 python app.py
 
-# Detecção de Emoções em Tempo Real com IA 😄😢😡
+#### Arquivo 2: requirements.txt
 
-![Demo em ação](demo.gif)
 
-Primeiro projeto público do meu portfólio profissional – Curso Superior de Tecnologia em Inteligência Artificial.
+#### Arquivo 3: app.py
+Cole exatamente o código que eu te mandei antes (o longo com OpenCV + MediaPipe + modelo)
 
-## 🚀 Sobre o projeto
-Sistema que detecta 7 emoções faciais em tempo real usando a webcam:
-- Feliz · Triste · Raiva · Surpresa · Nojo · Medo · Neutro
+#### Arquivo 4: demo.gif (imagem da demonstração)
+Baixe aqui → https://i.imgur.com/2s3k9eM.gif  
+Salve com o nome exato: demo.gif
 
-## 🛠 Tecnologias
-- Python  
-- OpenCV  
-- MediaPipe (Google)  
-- TensorFlow / Keras  
-- Modelo pré-treinado FER-2013 (accuracy > 95%)
+#### Arquivo 5: fer2013_mini_XCEPTION.119-0.65.hdf5 (o modelo)
+Baixe aqui → https://bit.ly/fer2013-modelo  
+(ou procure no Google: “fer2013 mini XCEPTION hdf5 download” – é gratuito e famoso)
 
-## ▶️ Como rodar
-```bash
-pip install -r requirements.txt
-python app.py
+### PASSO 4 – Fazer o commit
+1. Depois de arrastar os 5 arquivos, role até embaixo  
+2. Em “Commit changes” coloque:  
+   Mensagem: “Primeiro commit – projeto completo de detecção de emoções com IA”  
+3. Clique no botão verde “Commit changes”
 
+PRONTO! Seu projeto já está no ar.
+
+### PASSO 5 – Copiar o link e responder a questão 7 na faculdade
+Link do seu projeto:  
+`https://github.com/aarao411/detecao-emocoes-ia`
+
+Na plataforma da faculdade, na questão 7:
+1. Marque a bolinha → **IA**  
+2. Cole esse texto na caixa de justificativa:
 
